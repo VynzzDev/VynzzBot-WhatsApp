@@ -13,9 +13,6 @@
 <a href="https://github.com/VynzzDev"><img title="Author" src="https://img.shields.io/badge/AUTHOR-VynzzDev ID-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://www.codefactor.io"><img title="Rating" src="https://www.codefactor.io"></a>
-</p>
-<p align="center">
 </p>
 <details>
  
