@@ -17,8 +17,6 @@
 </p>
 <p align="center">
 </p>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
-<div align="center">
 <details>
  
 </details>
