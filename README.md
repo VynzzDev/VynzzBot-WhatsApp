@@ -87,12 +87,14 @@ Ket: Aktiv 24 jam
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 * [`Donasi 👾VynzzBot👾`](https://saweria.co/Vynzz667)
+ * [`Donasi 👾RaffiDev👾`](https://saweria.co/RaffiDev)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
 * [`Instagram Admin`](https://instagram.com/vncntmikael)
-##### THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
+* [`Instagram Admin`](https://instagram.com/raffidev)
+## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 * [`RaffiDevYT`](https://github.com/RaffiDevYT)
 
