@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Vynzz>
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="29px"> I'm Vynzz>
 <p align="center">
 <img src="https://media.discordapp.net/attachments/967937896030031913/1108358106297155604/1f77a1ac64dad0c2862c536717af6deb.jpg" width="230" height="230"/>
 </p>
@@ -15,7 +15,7 @@
  
 </details>
 
-### FITUR SEBAGAIAN AKU HAPUS,ADA YG GA TERIMA
+### THIS SCRIPT IS NO LONGER UPDATED
 
 ## Clone this project
 
