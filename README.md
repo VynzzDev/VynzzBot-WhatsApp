@@ -11,15 +11,11 @@
 </p>
 <p align="center">
 <a href="https://github.com/VynzzDev"><img title="Author" src="https://img.shields.io/badge/AUTHOR-VynzzDev-orange.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/RaffiDevYT"><img title="Developer" src="https://img.shields.io/badge/DEVELOPER-RaffiDev-orange.svg?style=for-the-badge&logo=github"></a>
-</p>
 <details>
  
 </details>
 
-### FITUR SEBAGAIAN AKU HAPUS,ADA YG GA TERIMA MAKASIH
+### FITUR SEBAGAIAN AKU HAPUS,ADA YG GA TERIMA
 
 ## Clone this project
 
@@ -83,15 +79,10 @@ Ket: Aktiv 24 jam
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 * [`Donasi 👾VynzzBot👾`](https://saweria.co/Vynzz667)
- * [`Donasi 👾RaffiDev👾`](https://saweria.co/RaffiDev)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
 * [`Instagram Admin`](https://instagram.com/vncntmikael)
-* [`Instagram Admin`](https://instagram.com/raffidev)
-## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
-
-* [`RaffiDevYT`](https://github.com/RaffiDevYT)
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
